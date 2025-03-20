@@ -1,6 +1,6 @@
 # MS-Email
 
-Um serviço de envio de e-mails desenvolvido com Spring Boot.
+Micro serviço de envio de e-mails desenvolvido com Spring Boot.
 
 ## Descrição
 
